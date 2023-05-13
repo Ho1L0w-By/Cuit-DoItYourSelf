@@ -38,7 +38,7 @@
 
 ![image-20230513153113636](https://cdn.jsdelivr.net/gh/Ho1L0w-By/Picturebed@main/img/image-20230513153113636.png)
 
-如果成功，就会显示成功。
+如果成功，就会直接完成整个视频，并且显示成功完成四个字。
 
 接下来就重复这个过程，来回复制即可。
 
